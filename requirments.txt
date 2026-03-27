@@ -1,0 +1,10 @@
+pandas
+numpy
+yfinance
+transformers
+torch
+jupyter
+notebook
+ipywidgets
+matplotlib
+scikit-learn
